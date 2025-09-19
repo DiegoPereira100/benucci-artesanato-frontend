@@ -53,26 +53,26 @@ App.js → Arquivo principal
 ## 🚀 Como executar o projeto
 
 ### 1️⃣ Clone este repositório
-```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
-cd NOME-DO-REPO
 
-2️⃣ Instale as dependências
+git clone git@github.com:DiegoPereira100/benucci-artesanato-frontend.git
+
+👉 Entre no diretório
+
+cd benucci-artesanato-frontend
+
+### 2️⃣ Instale as dependências
 npm install
-
-
 ou
-
 yarn install
 
-3️⃣ Execute o projeto
+## 3️⃣ Execute o projeto
 npx expo start
 📲 Para testar no celular, utilize o Expo Go disponível na Play Store/App Store e escaneie o QR Code gerado.
 
 🔗 Backend
 
 O backend deste projeto está disponível em:
-👉 Benucci Artesanato - Backend
+👉 Benucci Artesanato - [Backend](https://github.com/GlhermePereira/Benucci-Artesanato).
 
 📌 Status do projeto
 
